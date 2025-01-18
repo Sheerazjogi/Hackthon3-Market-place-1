@@ -111,10 +111,10 @@ The data schema defines the structure of my marketplace. It includes the followi
 | **Field**  |  **Type**  |  **Example**        |
 |:-----------|:------------:|------------:|
 | ***CustomerID*** | ***Primary***  | ***01*** |
-| ***Name***      | ***String***    | ***Azeezullah***   |
-| email     | string     | azeezullahnoohpoto@gmail.com   |   
-| Adress | String | Malir Bin Qasim   |
-| Phone Number | Number | 0304-3566873|
+| ***Name***      | ***String***    | ***SHEERAZ AHMED***   |
+| email     | string     | sheerazahmedjogi@gmail.com   |   
+| Adress | String | Clifton Karachi   |
+| Phone Number | Number | 0308-3769685|
 | Order History | String []  |  101.102.0001 |
 
 
