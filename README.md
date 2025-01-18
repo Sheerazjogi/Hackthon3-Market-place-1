@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ># Marketplace Builder Hackathon 2025 - Day 01 
 Welcome to my **Day 1** submission for the **Marketplace Builder Hackathon 2025** This repository contains my work for laying the foundation of my e-commerce marketplace, which focuses on affordable furniture (sofas and chairs) and electronics accessories (headphones).
 
@@ -174,3 +175,6 @@ The flowchart visualizes the connections between them:
 
 
 
+=======
+# Hackthon3-Market-place-1
+>>>>>>> 90eaa5bbdd0730f76638e44a7a8290271965ec89
